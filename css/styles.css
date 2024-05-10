@@ -7,6 +7,16 @@
 body {
     background-color: rgb(255, 187, 0);
 }
+header{
+    background-color: rgb(255, 187, 0);
+}
+h1{
+    margin: 20px 0;
+    padding: 20px;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+}
 .wrapper {
     width: 80vmin;
     padding: 50px 40px;
@@ -49,4 +59,13 @@ button {
     margin: 0 auto;
     border-radius: 5px;
     cursor: pointer;
+}
+footer{
+    background-color: rgb(255, 187, 0);
+}
+footer p{
+    padding: 20px;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
 }
